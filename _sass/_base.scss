@@ -108,6 +108,24 @@ aside {
             }
         }
     }
+        &.affix {
+            background-color: white;
+            .navbar-header .navbar-brand {
+                color: $theme-primary;
+                font-size: 14px;
+                &:hover,
+                &:focus {
+                    color: darken($theme-primary, 10%);
+                }
+            }
+            .nav > li > a,
+            .nav > li > a:focus {
+                color: $theme-dark;
+                &:hover {
+                    color: $theme-primary;
+                }
+            }
+        }
     @media (min-width: 768px) {
         background-color: transparent;
         border-color: rgba(white, .3);
