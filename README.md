@@ -1,14 +1,5 @@
-# Creative Theme for Jekyll
+## Referencias
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
-
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
-
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
-
-## To use the Creative Theme template in your project
-
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
+-[Es este el sitio?](https://www.google.es/maps/@40.3883322,-3.6523621,3a,75y,11.33h,73.96t/data=!3m6!1e1!3m4!1sPfcmKNo3CCgX0abF5WSBOg!2e0!7i13312!8i6656?hl=es)
+- https://gacetinmadrid.com/2017/10/16/el-nuevo-espacio-multiusos-de-vallecas-estara-listo-para-diciembre-con-250-plazas-de-aparcamiento/
+- http://vallecasweb.com/actualidad/item/vallecas-puente-obras-espacio-multiusos-aire-libre-171016
